@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm mahmd</h1>
 <h3 align="center">I'm form Egypt</h3>
 
+<img src="[https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+Science+engineer](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRmOWJhYjEzMTAwNzRhMjMwNDJkYjYzZDMyZGZkNWIzYjM3YTI0NCZjdD1n/ZVik7pBtu9dNS/giphy.gif)" />
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kisho-zsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mahmd" height="30" width="40" /></a>
