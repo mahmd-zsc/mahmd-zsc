@@ -7,7 +7,7 @@
     alt="mahmd-zsc"
   />
 </p>
-<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="" />
+<img width="400px" align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="" />
 - 🌱 I’m currently learning **Sass** - 💬 Ask me about **react** - 📫 How to
 reach me **moma8607914@gmail.com**
 
